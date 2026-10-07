@@ -33,11 +33,7 @@ see myclassifier.pkl file in myclassifier directory.
 * Finally,run realtime_facenet.py or real_time.py. 
 realtime_facenet.py is MTCNN version.real_time.py is another choice which use haar detector in openCV instead of MTCNN.
 
-## Result
 
-If everything is ok ,you will see result below:
-
-![](https://github.com/cryer/face_recognition/raw/master/image/1.png)
 
 ## More
 
